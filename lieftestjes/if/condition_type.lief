@@ -1,0 +1,7 @@
+@#% fout omdat de condition een smiley moet zijn
+blije 4 plus 8 dan	
+	zeg(0).
+	zeg((3 plus 8) en :)).
+anders
+	zeg(1).
+klaar.

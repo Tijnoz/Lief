@@ -1,0 +1,8 @@
+Duplicate.lief:
+	ERROR: LiefException thrown by compiler: OEPSIE 'b' (4:7) heb je al gedefinieerd, jij dommie!
+	
+Invalid_type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'dingetje' (1:16) is geen valide type, jij dommie!
+
+declaredLater.lief
+	ERROR: LiefException thrown by compiler: OEPSIE '?i' (1:0) is hier niet gedefinieerd, jij dommie!

@@ -1,0 +1,8 @@
+mistype.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'wordt' (2:3) een type probleempje: je kunt aan de variabele '?x' van het type 'getalletje' geen expressie van het type 'lettertje' toewijzen, jij dommie!
+
+mistype_var.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'wordt' (3:3) een type probleempje: je kunt aan de variabele '?x' van het type 'getalletje' geen expressie van het type 'lettertje' toewijzen, jij dommie!
+	
+not_declared.lief
+	ERROR: LiefException thrown by compiler: OEPSIE '?x' (1:0) is hier niet gedefinieerd, jij dommie!

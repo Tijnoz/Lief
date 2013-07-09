@@ -1,0 +1,8 @@
+size_type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'kleiner' (1:4) een type probleempje: rekenkundige expressies werken alleen op getalletjes, niet op: 'lettertje', jij dommie!
+
+comp_type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'anders' (1:2) een type probleempje, vergelijkingen werken alleen als beide expressies van hetzelfde type zijn, niet als de ene een 'getalletje' is en de andere een 'lettertje', jij dommie!
+
+size_type.lief
+	OEPSIE 'en' (2:3) een type probleempje, ('4' (2:6) ) is geen 'smiley' maar een 'getalletje', jij dommie!

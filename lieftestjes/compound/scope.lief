@@ -1,0 +1,10 @@
+@#% fout omdat y alleen binnen de scope van de compoundexpression bestaat.
+
+hartje x is een getalletje.
+
+♥x wordt begin 
+	 hartje y is een getalletje.
+	 3.
+klaar.
+
+♥y wordt 4.

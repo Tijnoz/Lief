@@ -1,0 +1,5 @@
+scoping.lief
+	ERROR: LiefException thrown by compiler: OEPSIE '?i' (6:0) is hier niet gedefinieerd, jij dommie!
+
+condition_type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'zolang' (2:0) . De conditie ('plus' (2:9) ) is niet van het type smiley, jij dommie!

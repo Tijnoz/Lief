@@ -1,0 +1,7 @@
+hartje i is een getalletje.
+♥i wordt 0.
+
+zolang ♥i kleinst 5 dan
+	@#% zeg('i' en ' ' en 'i' en 's').
+	♥i wordt zeg(♥i) plus 1.
+klaar.

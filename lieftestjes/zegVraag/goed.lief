@@ -1,0 +1,10 @@
+hartje x is een getalletje.
+
+zeg('a' en 1 en :) en ♥x).
+♥x wordt zeg(34).
+
+hartje c is een lettertje.
+hartje b is een smiley.
+
+vraag(♥c en ♥b en ♥x).
+♥x wordt vraag(♥x).

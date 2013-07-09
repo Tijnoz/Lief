@@ -1,0 +1,2 @@
+type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'positief' (1:0) een type probleempje: rekenkundige expressies werken alleen op getalletjes, niet op: 'lettertje', jij dommie!

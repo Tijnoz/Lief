@@ -1,0 +1,12 @@
+@#% let op, dit zorgt wel voor een eindeloze lus, maar laat zien
+@#% dat de sentences in de zolang-lus in een aparte scope draaien
+
+hartje i is een getalletje.
+♥i wordt 0.
+
+zolang ♥i kleinst 5 dan
+	hartje i is een getalletje.
+	♥i wordt 0.
+	zeg('i' en ' ' en 'i' en 's').
+	♥i wordt zeg(♥i) plus 1.
+klaar.

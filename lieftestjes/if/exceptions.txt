@@ -1,0 +1,16 @@
+no_anders.lief	
+	line 4:0 mismatched input 'klaar' expecting ANDERS
+	
+condition_type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'blije' (2:0) . De conditie ('plus' (2:8) ) is niet van het type smiley, alleen smiley's kunnen blij zijn, jij dommie!
+
+scoping_1.lief
+	ERROR: LiefException thrown by compiler: OEPSIE '?i' (5:1) is hier niet gedefinieerd, jij dommie!
+
+scoping_2.lief
+	ERROR: LiefException thrown by compiler: OEPSIE '?i' (8:0) is hier niet gedefinieerd, jij dommie!
+
+scoping_3.lief
+	OEPSIE '?i' (8:1) is hier niet gedefinieerd, jij dommie!
+
+	

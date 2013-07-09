@@ -1,0 +1,2 @@
+type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'niet' (1:0) een type probleempje: je kunt alleen smileys omkeren, niet op: 'lettertje', jij dommie!

@@ -1,0 +1,89 @@
+mama
+	Onderstaande code vraagt de gebruiker om een getal en bepaalt dan alle 
+	delers van dat getal
+	Demonstreert:
+		-mutiple assignments
+		-rekenen
+		-logica
+		-zeg en vraag
+		-empty expressions
+		-compound expressions (incl. scope)
+		-zolang (while)
+		-blije (if)
+onee grapje
+hartje i is een getalletje.
+hartje j is een getalletje.
+
+♥i wordt ♥j wordt 0.
+
+hartje iMax is een getalletje.
+
+zeg('d' en 'e' en 'l' en 'e' en 'r' en 's' en ' ' en 'v' en 'a' en 'n' en ' ' en 'i' en 
+	' ' en 't' en '/' en 'm' en ' ' en '?' en ' ' en vraag(♥iMax)).
+
+zolang 	begin 
+			hartje b is een smiley.
+			blije ♥i groter 0 dan
+				♥b wordt ♥i kleinst ♥iMax.
+			anders
+				♥b wordt :(.
+			klaar.
+			♥b.
+		klaar @#% voer de lus alleen uit als i >= 0 && i < iMax
+  dan
+	zeg('d' en 'e' en 'l' en 'e' en 'r' en 's' en ' ' en 
+		'v' en 'a' en 'n' en ' ').
+	♥j wordt zeg(♥i) plus negatief ♥i plus 2. @#% omslachige manier om ♥i te printen en ♥j op 1 te zetten
+	zolang ♥j kleinst ♥i dan	
+		blije ♥i modulo ♥j zoals 0 dan 
+			zeg('j' en '(' en ♥j en ')' en ' ' en 'i' en 's' en ' ' en 'e' en 'e' en 'n' en
+				' ' en 'd' en 'e' en 'l' en 'e' en 'r' en ' ' en 'v' en 'a' en 'n' en ' ' en
+				'i' en '(' en ♥i en ')' en '!').
+		anders
+			laat maar.
+		klaar.
+		♥j wordt ♥j plus 1.		
+	klaar.	
+	♥i wordt ♥i plus 1.
+klaar.
+
+
+mama
+	Onderstaande code vraagt de gebruiker om twee getalletjes, 
+	een lettertje en een smiley. Het lettertje en de smiey worden afgedrukt
+	(puur om te deomstreren dat we hierom kunnen vragen), daarnaast wordt voor de
+	twee getallen afgedrukt hoevaak het tweede getal in het eerste past,
+	zonder gebruik te maken van de 'delen door' operatie. Dit om compound expressions
+	inclusief hun scope regels te demonstreren
+onee grapje
+
+hartje c is een lettertje.
+hartje b is een smiley. mama let op, geen conflict met b hierboven omdat die alleen in de scope
+								van die compoun expression bestond. onee grapje
+hartje aantalKeerIn is een getalletje.
+♥aantalKeerIn wordt begin
+	hartje i is een getalletje. @#% overschrijft de i uit de scope hierboven
+	hartje x is een getalletje.
+	hartje y is een getalletje.
+	zeg('x' en ',' en 'y' en ',' en 'c' en ',' en 'b').
+	vraag(♥x en ♥y en ♥c en ♥b).
+		zolang ♥x groter ♥y dan
+			♥i wordt ♥i plus 1.
+			♥x wordt ♥x min ♥y.
+		klaar.
+	♥i.
+klaar.
+
+zeg(♥aantalKeerIn en ♥c en ♥b).	
+
+
+
+
+
+
+
+
+
+
+
+

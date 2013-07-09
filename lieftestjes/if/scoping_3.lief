@@ -1,0 +1,11 @@
+@#% fout omdat i uit de compound expression in de condition niet zichtbaar is
+@#% in het dan gedeelte omdat compound expressions hun eigen scope hebben
+blije 	begin 
+			hartje i is een getalletje. 
+			:). 
+		klaar 
+	dan	
+	♥i wordt 7.
+anders
+	laat maar.
+klaar.

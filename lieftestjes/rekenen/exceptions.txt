@@ -1,0 +1,5 @@
+links_fout.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'plus' (1:4) een type probleempje: rekenkundige expressies werken alleen op getalletjes, niet op: 'lettertje', jij dommie!
+	
+rechts_fout.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'plus' (1:3) een type probleempje: rekenkundige expressies werken alleen op getalletjes, niet op: 'smiley', jij dommie!

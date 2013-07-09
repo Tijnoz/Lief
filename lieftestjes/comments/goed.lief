@@ -1,0 +1,16 @@
+@#% single line commentaar
+
+mama
+	multiline commentaar kan ook
+onee grapje
+
+mama dat gaat natuurlijk ook goed op dezelfde regel onee grapje
+
+mama
+	♥x wordt 34.
+	zeg(♥x).
+	uiteraard gaat er niks stuk als je code in commentaar zet
+	@#% of single line commentaar in multiline commentaar
+onee grapje
+
+34.

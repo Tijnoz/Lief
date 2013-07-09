@@ -1,0 +1,106 @@
+﻿Operators:
+Op		♥Op				optypes			resulttype			Omschrijving
++		positief		getalletje		getalletje			abs(op)
+-		negatief		getalletje		getalltje			negatief 8
+
+*		maal			getalletje		getalletje			1 keer 2
+/		delen door		getalletje		getalletje			1 delen door 2
+
+%		modulo			getalletje		getalletje			1 module 2
+
++		plus			getalletje		getalletje			1 plus 2
+-		min				getalletje		getalletje			1 min 2
+
+!		niet			smiley			smiley				:) voor true, :( voor false
+
+<		kleinst			getalletje		smiley				1 kleinst 2
+>		grootst			getalletje		smiley				2 groots 1
+<=		kleiner 		getalletje		smiley				2 kleiner 2
+>=		groter			getalletje		smiley				2 groter 2
+==		zoals			dingetje		smiley				2 zoals 2
+<>		anders dan		dingetje	`	smiley				2 anders dan 3
+
+=		wordt			dingetje		dingetje			♥var wordt expr	
+
+@#% commentaar
+		
+
+a = 1		a wordt 1
+
+extratjes
+a++			a wordt jarig
+
+
+
+Voorbeeldprogramma.liev
+
+@#% COMMENTAAR STAAT ACHTER @#% EN DUURT DE HELE REGEL
+@#% COMMENTAAR DIENT IN HOOFDLETTERS GESCHREVEN TE ZIJN
+
+hartje n is een getalletje.
+hartje b is een smiley.
+
+♥n wordt 4 plus 8. 
+
+hartje m is een getalletje.
+♥m wordt (((zeg ♥n) plus 4) maal 3) modulo 3.
+
+hartje c is een lettertje.
+♥c wordt '?'.
+zeg ♥c.
+vraag ♥c.
+zeg ♥c.
+
+♥b wordt ♥m groter ofzo ♥n.
+t
+hartje f is een getalletje.
+♥f wordt begin		
+		zeg ♥b.
+		♥b wordt (:.
+		zeg ♥b.
+		
+		♥n wordt negatief ♥m.
+		♥m wordt positief ♥n.
+		
+		♥n.	
+	klaar + 4.
+	
+	
+@#% VOOR DE TOEKOMST
+
+blije ♥b dan
+	♥x wordt 9 plus 8 * ( 34 gedeeld door ♥m ).
+	zeg ♥x.
+anders
+	laat maar.
+klaar
+
+hartje i is een getalletje.
+♥i wordt 0.
+zolang ♥i kleiner 4 dan
+	zeg(♥i).
+	♥i wordt ♥i plus 1.
+klaar.
+	
+	
+probeer begin
+	♥m wordt 5 gedeeld door 0.
+klaar
+Ojee een GedeeldDoorNulAuwie kusje erop begin
+	zeg "Oepsie, je hebt door nul gedeeld".
+klaar
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

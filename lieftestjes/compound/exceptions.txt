@@ -1,0 +1,11 @@
+type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'wordt' (3:3) een type probleempje: je kunt aan de variabele '?x' van het type 'getalletje' geen expressie van het type 'smiley' toewijzen, jij dommie!
+
+void_decl.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'begin' (3:9) een samengestelde expressie moet wel eindigen met een expressie die een waarde geeft, jij dommie!
+
+void_type.lief
+	ERROR: LiefException thrown by compiler: OEPSIE 'wordt' (3:3) een type probleempje: je kunt aan de variabele '?x' van het type 'getalletje' geen expressie van het type 'void' toewijzen, jij dommie!
+	
+scope.lief
+	OEPSIE '?y' (10:0) is hier niet gedefinieerd, jij dommie!

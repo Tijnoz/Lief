@@ -1,0 +1,4 @@
+@#% fout omdat i in de scope van de zolang-lus is gedeclareerd
+zolang 3 plus 8 dan
+	zeg(1).
+klaar.

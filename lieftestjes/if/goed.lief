@@ -1,0 +1,16 @@
+blije :) dan
+	zeg(1).
+anders
+	zeg(0).
+	zeg((3 plus 8) en :)).
+klaar.
+
+blije 3 kleinst 3 dan
+	zeg('<').
+anders
+	blije 3 kleiner 3 dan
+		zeg('<' en '=').
+	anders
+		zeg('>').
+	klaar.
+klaar.

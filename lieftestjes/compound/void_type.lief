@@ -1,0 +1,7 @@
+@#% fout omdat een gecombineerde zeg() return type void heeft
+
+hartje x is een getalletje.
+
+♥x wordt begin 
+	zeg('a' en 'b').
+klaar.

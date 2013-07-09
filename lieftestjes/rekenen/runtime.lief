@@ -1,0 +1,3 @@
+@#% fout omdat we delen door 0
+@#% alleen fout bij het uitvoeren, wordt orrect geparsed en gecheckt.
+5 delen door 0.
