@@ -1,0 +1,1 @@
+ldc $value$		$! Load the constant denoted by value !$

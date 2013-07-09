@@ -1,0 +1,1 @@
+iload $address$		$! Load the integer from address in the heap !$
